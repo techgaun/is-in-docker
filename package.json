@@ -1,6 +1,6 @@
 {
   "name": "is-in-docker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple module to check if the process is running inside docker or not",
   "license": "MIT",
   "repository": "techgaun/is-in-docker",
