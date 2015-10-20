@@ -1,8 +1,8 @@
 'use strict';
-const assert = require('assert');
-const mock = require('mock-fs');
-const isInDocker = require('./index');
-const multiline = require('multiline');
+var assert = require('assert');
+var mock = require('mock-fs');
+var isInDocker = require('./index');
+var multiline = require('multiline');
 
 describe('test is-in-docker', function () {
     after(function () {
