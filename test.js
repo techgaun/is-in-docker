@@ -2,7 +2,6 @@
 var assert = require('assert');
 var mock = require('mock-fs');
 var isInDocker = require('./index');
-var multiline = require('multiline');
 
 describe('test is-in-docker', function () {
     after(function () {
