@@ -1,6 +1,6 @@
 {
   "name": "is-in-docker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple module to check if the process is running inside docker or not",
   "license": "MIT",
   "repository": "techgaun/is-in-docker",
@@ -20,7 +20,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "docker",
+    "container",
+    "process",
+    "dockerized",
+    "containerized"
   ],
   "dependencies": {},
   "devDependencies": {
